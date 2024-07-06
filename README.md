@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VINAY KUMAR R</h1>
-<h3 align="center">A passionate Cyber security & Full stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer & Cyber security Specialist from India</h3>
 
 - 🔭 I’m currently working on **IOT project**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vinay kumar r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay kumar r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Vinay Kumar R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay kumar r" height="30" width="40" /></a>
 <a href="https://instagram.com/itx_vini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx_vini" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="--" height="30" width="40" /></a>
 </p>
